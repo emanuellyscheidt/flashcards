@@ -1,17 +1,16 @@
-
-criacartao(
+criaCartao(
     'programação',
     'o que e JavaScript?',
-    'linguagem de programação'
+    'linguagem de programação',
 )
-criacartao(
+criaCartao(
     'Inglês',
     'Como se escreve dia do pagamento?',
-    'Pay Day'
+    'Pay Day',
 )
 
-criacartao(
+criaCartao(
     'Matemática',
     'Qual o gráfico da função quadrática?',
-    'Parabola'
+    'Parabola',
 )

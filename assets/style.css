@@ -57,10 +57,10 @@ body {
     font-weight: 500;
 }
 
-/*.cartao__conteudo__resposta p {
+.cartao__conteudo__resposta p {
     color: var(--card-back-color);
     font-weight: 700;
-}*/
+}
 
 .cartao:hover .cartao__conteudo {
     transform: rotateY(180deg);
