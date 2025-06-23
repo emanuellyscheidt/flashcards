@@ -1,16 +1,31 @@
 criaCartao(
-    'programação',
-    'o que e JavaScript?',
-    'linguagem de programação',
+    'Astrologia',
+    'Quem foi a primeira pessoa a viajar no Espaço?',
+    'Yuri Gagarin',
 )
 criaCartao(
-    'Inglês',
-    'Como se escreve dia do pagamento?',
-    'Pay Day',
+    'Geografia',
+    'Qual a montanha mais alta do mundo?',
+    'Monte Everest',
 )
 
 criaCartao(
-    'Matemática',
-    'Qual o gráfico da função quadrática?',
-    'Parabola',
+    'Geografia',
+    'Que país tem o formato de uma bota?',
+    'Itália',
+)
+criaCartao(
+    'Matemática 1',
+    'O que e mais pesado: 1 quilo de algodão ou 1 quilo de ferro?',
+    'Ambos tem o mesmo peso'
+)
+criaCartao(
+    'Física',
+    'Quem inventou a lâmpada?',
+    'Thomas Edison'
+)
+criaCartao(
+    'Geografia',
+    'Quanto tempo a Terra demora para dar uma volta completa em torno dela mesma?',
+    'Aproximadamente 24 horas'
 )
